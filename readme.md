@@ -1,5 +1,4 @@
-this task number A
-or run the program on command line
+run the program on command line
 we have two services
 first one for user run on port 8080 //cmd/user
 second one for todo list run on port 8081//cmd/todo
